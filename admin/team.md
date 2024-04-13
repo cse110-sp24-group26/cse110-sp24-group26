@@ -20,7 +20,7 @@ Full details can be found on our [branding page](branding/branding.md)
 - [Pranav]()
 - [Jason]()
 - [Luis]()
-- [Angel]()
+- [Angel](https://anchavez2026.github.io/CSE110_Labs/). I'm a second year Computer Engineer at UCSD
 - [Suhaib]()
 - [Santiago]()
 - [Ekin]()
