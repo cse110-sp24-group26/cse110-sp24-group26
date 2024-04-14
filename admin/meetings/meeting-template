@@ -1,0 +1,53 @@
+# Meeting Minutes
+
+## Meeting Information
+
+**Meeting Date/Time:** meeting_date, meeting_time  
+**Meeting Purpose:** meeting_purpose  
+**Meeting Location:** meeting_location  
+**Note Taker:** note_taker  
+
+## Attendees
+
+**Attended**:
+
+- Person A
+- Person B
+- Person C
+
+**Missing**:
+
+- Person D
+- Person F
+
+## Agenda Items
+
+- **Item 1**
+  - Description
+- **Item 2**
+  - Description
+
+## Discussion Items
+
+- **Item 1**
+  - Person A | 00:00
+  - Description
+- **Item 2**
+  - Person B | 00:00
+  - Description
+
+## Action Items
+
+### Prior
+
+- [x] **Person**: Task description | Due: 00/00/000
+- [x] **Person**: Task description | Due: 00/00/000
+
+### Current
+
+- [ ] **Person**: Task description | Due: 00/00/000
+- [ ] **Person**: Task description | Due: 00/00/000
+
+## Other Notes & Information
+
+N/A
