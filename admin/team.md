@@ -26,5 +26,5 @@ Full details can be found on our [branding page](branding/branding.md)
 - [Ekin]()
 - [Arjun]()
 - [Manu](https://enigmurl-ucsd.github.io/cse110-lab1/). My name is Manu and I'm a second year studying Computer Engineering and Math at UCSD.
-- [Viann]()
+- [Viann](https://yuimoz.github.io/cse110/). I'm Viann, a third year Computer Science major at UCSD. 
 
