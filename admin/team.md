@@ -16,7 +16,7 @@ Full details can be found on our [branding page](branding/branding.md)
 
 ## Members
 
-- [Angelo]()
+- [Angelo](https://aavanzado.github.io/CSE101_Project/) My name is Angelo and I am a fourth year transfer studying Computer Science at UCSD.
 - [Pranav]()
 - [Jason]()
 - [Luis]()
