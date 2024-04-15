@@ -17,7 +17,7 @@ Full details can be found on our [branding page](branding/branding.md)
 ## Members
 
 - [Angelo](https://aavanzado.github.io/CSE101_Project/) My name is Angelo and I am a fourth year transfer studying Computer Science at UCSD.
-- [Pranav]()
+- [Pranav](https://github.com/DaPhysikist/CSE110_Lab1) Hi! I am Pranav, a second year computer engineering major interested in hardware/software integration and embedded systems
 - [Jason]()
 - [Luis](https://ldpina.github.io/LabCSE110W1/) My name is Luis, I am a third year Cognitve Science Major w/ spec. in Design and Interaction
 - [Angel](https://anchavez2026.github.io/CSE110_Labs/). I'm a second year Computer Engineer at UCSD
