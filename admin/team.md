@@ -18,7 +18,7 @@ Full details can be found on our [branding page](branding/branding.md)
 
 - [Angelo](https://aavanzado.github.io/CSE101_Project/) My name is Angelo and I am a fourth year transfer studying Computer Science at UCSD.
 - [Pranav]()
-- [Jason]()
+- [Jason](https://jasonho318.github.io/110-lab-1/) My name is Jason and I'm a third year Math-CS Major.
 - [Luis]()
 - [Angel](https://anchavez2026.github.io/CSE110_Labs/). I'm a second year Computer Engineer at UCSD
 - [Suhaib]()
