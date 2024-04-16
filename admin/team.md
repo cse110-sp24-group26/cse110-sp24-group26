@@ -24,7 +24,7 @@ Full details can be found on our [branding page](branding/branding.md)
 - [Suhaib](https://ogs1492.github.io/CSE-110/) I'm Suhaib. I'm a fourth year transfer Math-CS student.
 - [Santiago]()
 - [Ekin](https://e-celik.github.io/110PagesProject/). I'm a third year transfer studying Computer Science at UCSD.
-- [Arjun]()
+- [Arjun](https://arsureshkumar.github.io/CSE110_lab_1/) My name is Arjun and I'm a second year Computer Science student at UCSD.
 - [Manu](https://enigmurl-ucsd.github.io/cse110-lab1/). My name is Manu and I'm a second year studying Computer Engineering and Math at UCSD.
 - [Viann](https://yuimoz.github.io/cse110/). I'm Viann, a third year Computer Science major at UCSD. 
 
