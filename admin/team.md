@@ -22,7 +22,7 @@ Full details can be found on our [branding page](branding/branding.md)
 - [Luis](https://ldpina.github.io/LabCSE110W1/) My name is Luis, I am a third year Cognitve Science Major w/ spec. in Design and Interaction
 - [Angel](https://anchavez2026.github.io/CSE110_Labs/). I'm a second year Computer Engineer at UCSD
 - [Suhaib](https://ogs1492.github.io/CSE-110/) I'm Suhaib. I'm a fourth year transfer Math-CS student.
-- [Santiago]()
+- [Santiago](https://santiago-duque.github.io/CSE-110-Lab-1/) My name is Santiago, and I am a third year Computer Science student at UCSD.
 - [Ekin](https://e-celik.github.io/110PagesProject/). I'm a third year transfer studying Computer Science at UCSD.
 - [Arjun](https://arsureshkumar.github.io/CSE110_lab_1/) My name is Arjun and I'm a second year Computer Science student at UCSD.
 - [Manu](https://enigmurl-ucsd.github.io/cse110-lab1/). My name is Manu and I'm a second year studying Computer Engineering and Math at UCSD.
