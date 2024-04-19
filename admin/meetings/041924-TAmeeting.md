@@ -25,6 +25,7 @@
 - **TA Introduction/Section**
 - **Discuss potential secondary meeting times**
 - **Clarification on contributing to repo**
+- **Discussing team contract**
 - **Generally how to tackle warm up calendar**
   - Individually, small teams? etc.
   - Which tools to use?
