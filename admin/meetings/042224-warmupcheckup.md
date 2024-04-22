@@ -2,10 +2,10 @@
 
 ## Meeting Information
 
-**Meeting Date/Time:** meeting_date, start_time - end_time  
-**Meeting Purpose:** meeting_purpose  
-**Meeting Location:** meeting_location  
-**Note Taker:** note_taker  
+**Meeting Date/Time:** April 22, 2024, 7:00PM - 8:00PM  
+**Meeting Purpose:** Warmup Assignment Check-in  
+**Meeting Location:** Zoom  
+**Note Taker:** Jason  
 
 ## Attendees
 
@@ -22,19 +22,13 @@
 
 ## Agenda Items
 
-- **Item 1**
-  - Description
-- **Item 2**
-  - Description
+- **Each group reports progress on widgets, discuss changes**
+- **Setting up next meeting with TA**
 
 ## Discussion Items
 
-- **Item 1**
-  - Person A || 00:00
-  - Description
-- **Item 2**
-  - Person B || 00:00
-  - Description
+- **Each group reports progress on widgets, discuss changes**
+- **Setting up next meeting with TA**
 
 ## Action Items
 
