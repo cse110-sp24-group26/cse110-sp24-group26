@@ -88,6 +88,9 @@
     - Pranav
         - Happy with final product, there could have been more features that we could have added
         - Some issues may go away once we have more complex projects since it’s easier to split up work
+
+## Action Items
+
 - Action Items
     - [ ] Don’t split up between css/html/js
     - [ ] We definitely need to have more meetings before hand and more planning for individual subtasks
@@ -104,9 +107,6 @@
     - Overall
     - We definitely need more communication
     - Subteam only meetings
-
-## Action Items
-N/A
 
 ## Other Notes & Information
 
