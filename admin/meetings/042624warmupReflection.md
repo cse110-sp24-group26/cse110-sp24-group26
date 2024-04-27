@@ -38,15 +38,6 @@
 
 ## Action Items
 
-### Prior
-
-- **Person**:
-  - [ ] Due: 00/00/0000 || Task description
-- **Person**:
-  - [ ] Due: 00/00/0000 || Task description
-
-### Current
-
 - **Person**:
   - [ ] Due: 00/00/0000 || Task description
 - **Person**:
