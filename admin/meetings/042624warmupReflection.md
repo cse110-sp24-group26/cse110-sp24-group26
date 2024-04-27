@@ -25,7 +25,7 @@
 - **Review Warmup**
   - Discuss who did what, how planning went. (Not technical)
 - **Retrospect on Warmup**
-  - Discuss technical aspects of warmup. (Technical)
+  - Discuss technical aspects of warmup, what worked, what didn't, new techniques that could have been used. (Technical)
 - **Begin Planning for Project**
   - Discuss users, existing products, baseline requirements, further functionalities
 
