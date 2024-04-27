@@ -11,14 +11,19 @@
 
 **Attended**:
 
-- Person A
-- Person B
-- Person C
+- Ekin
+- Manu
+- Pranav
+- Angel
+- Viann
+- Angelo
+- Suhaib
 
 **Missing**:
 
-- Person D
-- Person F
+- Jason
+- Luis
+- Santiago
 
 ## Agenda Items
 
