@@ -2,10 +2,10 @@
 
 ## Meeting Information
 
-**Meeting Date/Time:** meeting_date, start_time - end_time  
-**Meeting Purpose:** meeting_purpose  
-**Meeting Location:** meeting_location  
-**Note Taker:** note_taker  
+**Meeting Date/Time:** 04/26/24, 6:00 - end_time  
+**Meeting Purpose:** Review Warmup Exercise, and begin planning for project  
+**Meeting Location:** Zoom  
+**Note Taker:** Ekin Celik  
 
 ## Attendees
 
@@ -22,10 +22,12 @@
 
 ## Agenda Items
 
-- **Item 1**
-  - Description
-- **Item 2**
-  - Description
+- **Review Warmup**
+  - Discuss who did what, how planning went. (Not technical)
+- **Retrospect on Warmup**
+  - Discuss technical aspects of warmup. (Technical)
+- **Begin Planning for Project**
+  - Discuss users, existing products, baseline requirements, further functionalities
 
 ## Discussion Items
 
