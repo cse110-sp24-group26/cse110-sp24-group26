@@ -32,10 +32,8 @@
 ## Discussion Items
 
 - **Item 1**
-  - Person A || 00:00
   - Description
 - **Item 2**
-  - Person B || 00:00
   - Description
 
 ## Action Items
