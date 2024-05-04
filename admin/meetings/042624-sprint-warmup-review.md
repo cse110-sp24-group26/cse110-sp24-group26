@@ -65,7 +65,7 @@
         - Referenced existing algorithms
     - Suhaib
         - Day native web component did both css and javascript
-- **Sentiment (subteam) **
+- **Sentiment (subteam)**
     - Viann
         - Did the basic html of the sentiment widget
     - Santiago
