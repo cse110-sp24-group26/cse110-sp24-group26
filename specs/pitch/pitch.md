@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-We plan to make a journal that is tailored to developers and solves various of the problems. We aim to make the application familiar to what they already know, yet specialized for the task for journaling.
+We plan to make a journal that is tailored to developers and solves various of the problems with existing solutions. We aim to make the application familiar to what they already know, yet specialized for the task for journaling.
 
 ## Target Audience / User Stories
 
