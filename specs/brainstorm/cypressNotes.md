@@ -9,6 +9,10 @@ launches in the selected browser (I had an option of 3, including chrome). From 
 from your website. Cypress interacts with your website __the same way a user would__, and the syntax for writing tests
 __works seemlessly with your DOM__.
 
+![Screenshot from Cypress](screenshots/cypressScreenshot.png)
+
+# _How To_ #
+
 - [Set up tests](https://docs.cypress.io/guides/overview/why-cypress#Writing-tests)  
   _There are no servers, drivers, or any other dependencies to install or configure._  
   ```
