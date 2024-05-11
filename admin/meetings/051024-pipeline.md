@@ -109,14 +109,6 @@
     # Example test cases
     ```
 
-## Discussion Items
-
-- **Dicuss testing framework choice**
-- **Discuss database choice**
-- **Discuss non functional features**
-- **Finish CI/CD assignment**
-- **Discuss Github Issue**
-
 ## Action Items
 
 - **Manu**:
