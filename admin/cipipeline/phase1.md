@@ -17,7 +17,17 @@ Development branches are to be named in the form of:
 We also have conventions on git commit messages with a custom template. Finally, we plan to take advantage of GitHub release events + tags.
 
 ## CI/CD
-We incorporate usages of CI/CD in numerous places throughout our pipeline. For one, we employ a comprehensive testing suite through cypress which offers unit, component, and e2e testing. We also include eslint to ensure that easy mistakes are missed. Also, all warnings are treated as errors.
+We incorporate usages of CI/CD in numerous places throughout our pipeline. For one, we employ a comprehensive testing suite through cypress which offers unit, component, and e2e testing. We also include eslint to ensure that easy mistakes are missed. Also, many warnings are treated as errors.
+
+## Human Review
+
+We also make sure to include many safe points where humans can catch errors otherwise hard to see. This is done in both the staging branches, where at least one person must review it, as well as the main branch, where at least two other people must review it.
+
+## Other Actions
+
+At the end of the build pipeline, we use GitHub actions to deploy the pages site and to include documentation. This means that the documentation never actually polutes the repo, and is instead only included on the actions build. This is good because it means that the Git repo only contains the crucial and necessary code, with no redundancy whatsoever.
+
+We have also enabled security scanning to protect against common vulnerabilities.
 
 ## Phase 1 Diagram
 The lifecycle of a single feature (or bug fix, documentation addition, etc) is fully described by this diagram.
