@@ -41,8 +41,9 @@
 
 ## Action Items
 
-- **Person**:
+- **Manu and Pranav**:
   - Due: 05/17/2024 || Form skeleton of basic features
+- **All**:  
   - Due 05/17/2024 || Think about the feature you might want to work on -> easier to form subgroups
 
 ## Other Notes & Information
