@@ -31,7 +31,7 @@
 
 https://canvas.ucsd.edu/courses/54609/assignments/778821
 
-### Standup
+### Sprint Review
 
 - Calendar Team
   - Dates can be changed by navs or dropdown
