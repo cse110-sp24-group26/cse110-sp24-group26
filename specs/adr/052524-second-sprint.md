@@ -7,10 +7,15 @@ For the second sprint, we need to finalize a few design details before we can im
 ## Considered Options
 
 Rendering Editor Markdown: Separate Panes
+
 Rendering Editor Markdown: Style text as it is edited
+
 Renaming Tags: Double Click
+
 Renaming Tags: Right Click
+
 Choosing Future Days on Calendar: Forbid
+
 Choosing Future Days on Calendar: Allow
 
 ## Decision Outcome
